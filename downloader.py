@@ -1,4 +1,3 @@
-from posixpath import dirname
 import requests
 import sys
 from tqdm import tqdm
